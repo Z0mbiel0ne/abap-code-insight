@@ -3,7 +3,7 @@
   <parent>
     <groupId>abap-code-insight</groupId>
     <artifactId>abap-code-insight-parent</artifactId>
-    <version>1.0.0-SNAPSHOT</version>
+    <version>1.0.0</version>
   </parent>
   <artifactId>update-site</artifactId>
   <packaging>pom</packaging>
