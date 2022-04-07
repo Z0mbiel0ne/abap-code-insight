@@ -8,7 +8,7 @@
   <artifactId>update-site</artifactId>
   <packaging>pom</packaging>
   <modules>
-    <module>abap-code-insight-feature</module>
-	<module>abap-code-insight-update-site</module> <!-- Update site -->
- </modules>
+  	<module>adt-codemining-feature</module>
+  	<module>adt-codemining-update-site</module>
+  </modules>
 </project>

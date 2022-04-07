@@ -4,6 +4,8 @@
     <groupId>abap-code-insight</groupId>
     <artifactId>update-site</artifactId>
     <version>1.0.0-SNAPSHOT</version>
+    <relativePath>..</relativePath>
   </parent>
   <artifactId>abap-code-insight-feature</artifactId>
+  <packaging>eclipse-feature</packaging>
 </project>

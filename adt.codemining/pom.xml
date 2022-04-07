@@ -98,4 +98,5 @@
 		</plugins>
 	</build>
 		
+	<packaging>eclipse-plugin</packaging>
 </project> 
