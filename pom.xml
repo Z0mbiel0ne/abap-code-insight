@@ -30,6 +30,11 @@
 			<layout>p2</layout>
 			<url>http://download.eclipse.org/releases/2021-12/</url>
 		</repository>
+		<repository>
+			<id>ADT</id>
+			<layout>p2</layout>
+			<url>https://tools.hana.ondemand.com/latest</url>
+		</repository>
 	</repositories>
 
 </project>
